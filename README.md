@@ -1,10 +1,9 @@
-resizepro
-
+![logo](./icon.png "Resize Pro")
 
 # Overview
 An image resizing application for professional photographers.
 
-![logo](./icon.png "Resize Pro")
+For API Documentation, refer to https://resizepro.docs.apiary.io
 
 # Contents
 
